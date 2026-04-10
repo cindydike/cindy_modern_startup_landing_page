@@ -1,6 +1,10 @@
 # CindyFlow - Modern Startup Landing Page
 
+![CindyFlow Landing Page](./public/assets/landing_page_screenshot.png)
+
 > A modern, high-conversion, and fully responsive single-page landing page designed for a fictional AI-driven productivity suite.
+
+**[🚀 View Live Demo](https://modern-startup-landing-page.mrceezay.workers.dev/)**
 
 ## Overview
 
